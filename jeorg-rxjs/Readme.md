@@ -1,5 +1,13 @@
 # JEOrg RxJS
 
+## Intro
+
+Pure Javascript introduction to RxJS in TypeScript.
+
+No major Front-End frameworks are used in this example.
+
+Just a simple plain Html page with references to the generated `bundle.js`.
+
 ## References
 
 ### Online
