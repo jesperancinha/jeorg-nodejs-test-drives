@@ -1,18 +1,5 @@
-# JEOrg RxJS
-
-## Intro
-
-Pure Javascript introduction to RxJS in TypeScript.
-
-No major Front-End frameworks are used in this example.
-
-Just a simple plain Html page with references to the generated `bundle.js`.
-
-## References
-
-### Online
-
--   [Getting Started With RxJS — Part 1: Setting Up The Development Environment & Creating Observables](https://medium.com/codingthesmartway-com-blog/getting-started-with-rxjs-part-1-setting-up-the-development-environment-creating-observables-db76ce053725)
+# jeorg-nodejs-test-drives
+My first ever repo dedicated to NodeJS and server-side technologies. Although there are examples of front-end modules in different frameworks. The focus is in the backend.
 
 ## About me
 
