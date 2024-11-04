@@ -1,5 +1,10 @@
 # jeorg-nodejs-test-drives
-My first ever repo dedicated to NodeJS and server-side technologies. Although there are examples of front-end modules in different frameworks. The focus is in the backend.
+
+My first ever, repo dedicated to Node.js and server-side technologies. Although there are examples of front-end modules in
+different frameworks. The focus is in the backend.
+
+[extract-json](extract-json) - JSON extraction out of javascript
+[jeorg-rxjs](jeorg-rxjs) - RxJS Experiments
 
 ## About me
 
