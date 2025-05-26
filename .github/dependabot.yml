@@ -1,0 +1,16 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "extract-json"
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "npm"
+    directory: "image-morpher-js"
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "npm"
+    directory: "jeorg-rxjs"
+    schedule:
+      interval: "daily"
