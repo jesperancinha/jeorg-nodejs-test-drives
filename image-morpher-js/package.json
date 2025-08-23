@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.2.0",
-    "chai": "^5.0.0",
+    "chai": "^6.0.1",
     "jest": "^30.0.0",
     "jest-environment-jsdom": "^30.0.0",
     "jpeg-js": "^0.4.4",
